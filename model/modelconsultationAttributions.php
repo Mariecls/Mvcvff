@@ -1,0 +1,3 @@
+<?php
+$nbEtab=obtenirNbEtabOffrantChambres($connexion);
+?>
